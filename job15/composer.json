@@ -1,0 +1,10 @@
+{
+    "name": "classes-php/job15",
+    "description": "Job15 - refactor classes into src and add composer autoloading",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
